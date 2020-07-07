@@ -1,5 +1,5 @@
-# Commit Now
-Git commit message with emoij
+# :ok_hand: Commit now
+Git commit message with emoij :v:
 
 
 |   Commit type              | Emoji                                         |
