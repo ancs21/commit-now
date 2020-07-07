@@ -51,8 +51,6 @@ Git commit message with emoij
 
 ### Example
 
-### Commits with Emoji 😃
-
 🔖 0.5.2
 
 🐛 Fix exporting of the library to include _.ifElse
